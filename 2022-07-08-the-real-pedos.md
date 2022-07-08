@@ -5,7 +5,7 @@ readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/politics/comments/vgmary/texas_gop_adopts_shockingly_explicit_antilgbtq/id4cc5r/){:target="_blank" rel="noopener"} post.
+[original](https://www.reddit.com/r/politics/comments/vgmary/texas_gop_adopts_shockingly_explicit_antilgbtq/id27rvz/){:target="_blank" rel="noopener"} post.
 
 [This link](https://www.dailykos.com/history/user/CajsaLilliehook){:target="_blank" rel="noopener"} in
 a reply to the comment reproduced below has an exhaustive list of the
