@@ -44,7 +44,7 @@ If one or two flushes and a handful of repairs aren't enough to fix everything a
 
 Now there are a few more complaints I hear and I just want to take a moment and address those too, before I go.  
   
-#Democrats don't even try to do anything!  
+# Democrats don't even try to do anything!  
 
 Here are some bills that Democrats have written or passed with their House majority (remember that Republicans can't filibuster in the House):  
 
@@ -61,7 +61,7 @@ Here are some bills that Democrats have written or passed with their House major
 
 [Here's a full list of bills voted on in the House, it's worth browsing, there's a lot of good stuff in there.](https://en.wikipedia.org/wiki/List_of_bills_in_the_117th_United_States_Congress)  
 
-#Okay, so Democrats *try* to do things, but they never *actually* do things!  
+# Okay, so Democrats *try* to do things, but they never *actually* do things!  
 
  So here are some headlines from the past two years, a trip down memory lane:  
 
@@ -87,7 +87,7 @@ Primary elections are happening *now* and turnout is *abysmal.*  If you're angry
 
 At best voting is free and easy, most of you reading this will be able to request a free mail-in ballot from your state board of elections; at worst voting is a righteous pain in the ass, the irony being that the harder your state has made it for you to vote the more important it is for you to cast a ballot.  Voting doesn't have to be emotionally dramatic, it doesn't have to involve sacrifice and suffering, it's paperwork.  Two times every two years you go online, request a ballot, do ten minutes of research on the candidate's platforms, check some boxes, and mail your ballot back in.  People say "vote harder," but for most of us voting isn't hard, and if voting *isn't* hard for you then it's important to make the best use of that vote because [*your vote can help protect the votes of others.*](https://www.congress.gov/bill/117th-congress/house-bill/1/text)
 
-#Recapping:  
+# Recapping:  
   
  1. Voting was illegal for most people for most of human history, and yes they're trying to do it again right now.  
  2. Your vote isn't worthless, billions of dollars and thousands of hours are spent trying to buy, influence, or suppress your vote every election season and every day.  
@@ -97,7 +97,7 @@ At best voting is free and easy, most of you reading this will be able to reques
  6. *48 out of 50 Democratic Senators are* ***on the record voting to reform the filibuster,*** Manchin and Sinema are the only two Democrats who voted against it.  *If you have a Democratic Senator and you live anywhere but Arizona or West Virginia then* [***your Democratic Senator is on the Record voting in favor of reforming the filibuster.***](https://www.vox.com/2022/1/19/22881837/senate-filibuster-vote-voting-rights-joe-manchin-kyrsten-sinema)     
  7. *218 out of 219 Democrats in the House of Representatives are* ***on the record voting in favor of nationally codifying abortion rights.***  *If you have a Democratic Representative and you live anywhere but Loredo, Texas then* [***your Democratic Representative is on the record voting in favor of nationally codifying abortion rights.***](https://clerk.house.gov/Votes/2021295)
 
-#One last try, for the cynics in the audience:  
+# One last try, for the cynics in the audience:  
 
 >"Both sides are the same."  
 
