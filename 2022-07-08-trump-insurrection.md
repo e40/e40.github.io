@@ -1,3 +1,5 @@
+**NOTE: this text was not written by me and is from user [u/CaptainNoBoat](https://www.reddit.com/user/CaptainNoBoat){:target="_blank" rel="noopener"}**
+
 Recap of what we know so far regarding Trump's efforts to overturn the election:
 
 -Trump tried to [extort the country of Ukraine](https://www.bbc.com/news/world-us-canada-49800181) for political dirt on Biden. He was impeached over it.  
