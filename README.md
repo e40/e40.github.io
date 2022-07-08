@@ -1,4 +1,5 @@
 
+* 2022-07-08: [The Jan 6 violence is on Christopher Miller](2022-07-08-miller-treason.html)
 * 2022-07-08: [We are witnessing a coup of the American government](2022-07-08-coup.html)
 * 2022-07-08: [Republicans are playing the long game, Democrats are not](2022-07-08-democrats-are-losing.html)
 * 2022-07-08: [An important difference between conservative and
