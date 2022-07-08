@@ -8,6 +8,8 @@ The
 [original](https://www.reddit.com/r/politics/comments/v8tbox/discussion_thread_house_jan_6_public_hearings_day/ibsiw03/){:target="_blank"
 rel="noopener"} post.
 
+-------------------------------------------------------------------------------
+
 Recap of what we know so far regarding Trump's efforts to overturn the election:
 
 * Trump tried to [extort the country of Ukraine](https://www.bbc.com/news/world-us-canada-49800181) for political dirt on Biden. He was impeached over it.  

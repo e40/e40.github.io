@@ -1,5 +1,5 @@
 **NOTE: this text was not written by me and is from user
-[u/CaptainNoBoat](https://www.reddit.com/user/MaximumEffort433){:target="_blank"
+[u/MaximumEffort433](https://www.reddit.com/user/MaximumEffort433){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
@@ -7,6 +7,8 @@ highlight comments, but they do not.**
 The
 [original](https://www.reddit.com/r/PoliticalHumor/comments/vrx8hj/nothing_hinders_a_cure_so_much_as_frequent/iexr4bp/){:target="_blank"
 rel="noopener"} post.
+
+-------------------------------------------------------------------------------
 
 I want to address a common misconception right up front:  
 
