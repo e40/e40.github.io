@@ -1,6 +1,12 @@
 **NOTE: this text was not written by me and is from user
 [u/CaptainNoBoat](https://www.reddit.com/user/CaptainNoBoat){:target="_blank"
-rel="noopener"}. The only changes were minor formatting for readability.**
+rel="noopener"}. The only changes were minor formatting for
+readability.  I would merely link to reddit if they had a way to
+highlight comments, but they do not.**
+
+The
+[original](https://www.reddit.com/r/politics/comments/v8tbox/discussion_thread_house_jan_6_public_hearings_day/ibsiw03/){:target="_blank"
+rel="noopener"} post.
 
 Recap of what we know so far regarding Trump's efforts to overturn the election:
 
