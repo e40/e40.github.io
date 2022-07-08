@@ -8,7 +8,7 @@ The
 [original](https://www.reddit.com/r/politics/comments/vm7el9/pelosi_signals_votes_to_codify_key_scotus_rulings/ie0n3ky/){:target="_blank"
 rel="noopener"} post.
 
--------------------------------------------------------------------------------
+===============================================================================
 
 I am *begging" the Democrats to realize that "doing politics" extends beyond the legislature and into electoral work and dominating the narrative.
 
