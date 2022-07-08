@@ -1,3 +1,5 @@
+# Republicans are playing the long game, Democrats are not
+
 **NOTE: this text was not written by me and is from user
 [u/GodEmperorNixon](https://www.reddit.com/user/GodEmperorNixon){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
