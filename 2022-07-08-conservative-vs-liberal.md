@@ -1,5 +1,7 @@
 # An important difference between conservative and liberal movements
 
+-------------------------------------------------------------------------------
+
 **NOTE: this text was not written by me and is from user
 [u/Iamtheonewhobawks](https://www.reddit.com/user/Iamtheonewhobawks){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
