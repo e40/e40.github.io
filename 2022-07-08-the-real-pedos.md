@@ -1,3 +1,5 @@
+# Republicans are the real pedophiles
+
 **NOTE: this text was not written by me and is from user
 [u/Right-Fisherman-1234](https://www.reddit.com/user/Right-Fisherman-1234){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
