@@ -8,11 +8,11 @@ The
 [original](https://www.reddit.com/r/politics/comments/vm7el9/pelosi_signals_votes_to_codify_key_scotus_rulings/ie0n3ky/){:target="_blank"
 rel="noopener"} post.
 
-===============================================================================
+-------------------------------------------------------------------------------
 
-I am *begging" the Democrats to realize that "doing politics" extends beyond the legislature and into electoral work and dominating the narrative.
+I am *begging* the Democrats to realize that _doing politics_ extends beyond the legislature and into electoral work and dominating the narrative.
 
-People bring up "well, the Republicans always came out and voted, why can't we?!" No, that's only half the story. The other half of the story, the *important* part of the story, is that the Republicans spent a decade and a half—at least—laying the ideological and messaging infrastructure and now they're utterly dominant in messaging, information, and in setting the terms of the conversation.
+People bring up _well, the Republicans always came out and voted, why can't we?!_ No, that's only half the story. The other half of the story, the *important* part of the story, is that the Republicans spent a decade and a half—at least—laying the ideological and messaging infrastructure and now they're utterly dominant in messaging, information, and in setting the terms of the conversation.
 
 Key religious groups were seized by GOP ideologues. In 1979, 70% of the pastors of the Southern Baptist Conference were in favor of legalized abortion; one year later, the GOP seized control and made pro-life policies and article of faith. Jerry Falwell founded the Moral Majority in the same year and began using it to mobilize conservative Christians. 
 
