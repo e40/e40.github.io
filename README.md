@@ -1,4 +1,3 @@
-Welcome.
 
 * 2022-07-08: [Why Democrats are losing and Republicans are winning](2022-07-08-democrats-are-losing.html)
 * 2022-07-08: [On voter apathy and suppression](2022-07-08-voter-apathy-and-suppression.html)
