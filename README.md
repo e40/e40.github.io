@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2022-08-20: [Trump is aiding foreign powers with release of classified material](2022-08-20-trump-classified-material.html)
 * 2022-07-30: [Trump disrespects the Military](2022-07-30-trump-disrespects-military.html)
 * 2022-07-08: [The Jan 6 violence is on Christopher Miller](2022-07-08-miller-treason.html)
 * 2022-07-08: [We are witnessing a coup of the American government](2022-07-08-coup.html)
