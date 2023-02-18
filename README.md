@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2023-01-22: [Conservatives are all about hierarchies and that explains a LOT](2023-02-18-conservative-hierarchies.html)
 * 2023-01-22: [What is "Two Santa Clauses" and how is the GOP using it to manipulate you?](2023-01-22-two-santas.html)
 * 2022-12-17: [Morton's neuroma and MBT shoes](2022-12-17-shoes.html)
 * 2022-09-10: [Conservative power brokers do not believe in democracy](2022-09-10-conservatives-do-not-believe-in-democracy.html)
