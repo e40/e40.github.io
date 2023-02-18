@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/Chippopotanuse](https://www.reddit.com/user/Chippopotanuse){:target="_blank"
+[u/Chippopotanuse](https://old.reddit.com/user/Chippopotanuse){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/CapitolConsequences/comments/v8xjo7/the_damning_video_the_select_committee_aired_that/ibue94h/){:target="_blank" rel="noopener"} post.
+[original](https://old.reddit.com/r/CapitolConsequences/comments/v8xjo7/the_damning_video_the_select_committee_aired_that/ibue94h/){:target="_blank" rel="noopener"} post.
 
 -------------------------------------------------------------------------------
 

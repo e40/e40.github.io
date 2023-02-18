@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/Saxamaphooone](https://www.reddit.com/user/Saxamaphooone){:target="_blank"
+[u/Saxamaphooone](https://old.reddit.com/user/Saxamaphooone){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/politics/comments/10dpsbi/democrats_respond_to_gop_calls_for_debt_ceiling/j4mwmef/){:target="_blank" rel="noopener"} post.
+[original](https://old.reddit.com/r/politics/comments/10dpsbi/democrats_respond_to_gop_calls_for_debt_ceiling/j4mwmef/){:target="_blank" rel="noopener"} post.
 
 -------------------------------------------------------------------------------
 

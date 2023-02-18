@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/CampTrampStamp](https://www.reddit.com/user/CampTrampStamp){:target="_blank"
+[u/CampTrampStamp](https://old.reddit.com/user/CampTrampStamp){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/minnesota/comments/1139kuo/pence_rails_against_trans_kids_pronouns_during/j8prphb/){:target="_blank" rel="noopener"} post.
+[original](https://old.reddit.com/r/minnesota/comments/1139kuo/pence_rails_against_trans_kids_pronouns_during/j8prphb/){:target="_blank" rel="noopener"} post.
 
 -------------------------------------------------------------------------------
 

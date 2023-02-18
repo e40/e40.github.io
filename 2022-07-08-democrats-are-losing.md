@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/GodEmperorNixon](https://www.reddit.com/user/GodEmperorNixon){:target="_blank"
+[u/GodEmperorNixon](https://old.reddit.com/user/GodEmperorNixon){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/politics/comments/vm7el9/pelosi_signals_votes_to_codify_key_scotus_rulings/ie0n3ky/){:target="_blank"
+[original](https://old.reddit.com/r/politics/comments/vm7el9/pelosi_signals_votes_to_codify_key_scotus_rulings/ie0n3ky/){:target="_blank"
 rel="noopener"} post.
 
 -------------------------------------------------------------------------------

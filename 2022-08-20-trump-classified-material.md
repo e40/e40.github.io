@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/robotix_dev](https://www.reddit.com/user/robotix_dev){:target="_blank"
+[u/robotix_dev](https://old.reddit.com/user/robotix_dev){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/democrats/comments/worcvp/intelligence_officials_withheld_sensitive/ike82pc/){:target="_blank"
+[original](https://old.reddit.com/r/democrats/comments/worcvp/intelligence_officials_withheld_sensitive/ike82pc/){:target="_blank"
 rel="noopener"} post.
 
 -------------------------------------------------------------------------------

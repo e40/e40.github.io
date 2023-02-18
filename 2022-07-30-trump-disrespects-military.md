@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/Bobby5Spice](https://www.reddit.com/user/Bobby5Spice){:target="_blank"
+[u/Bobby5Spice](https://old.reddit.com/user/Bobby5Spice){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/NewsOfTheStupid/comments/w70z85/trump_wanted_to_give_himself_medal_of_honor_but/ihh6gfs/){:target="_blank"
+[original](https://old.reddit.com/r/NewsOfTheStupid/comments/w70z85/trump_wanted_to_give_himself_medal_of_honor_but/ihh6gfs/){:target="_blank"
 rel="noopener"} post.
 
 -------------------------------------------------------------------------------

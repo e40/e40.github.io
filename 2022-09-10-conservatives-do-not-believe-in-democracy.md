@@ -3,13 +3,13 @@
 -------------------------------------------------------------------------------
 
 **NOTE: this text was not written by me and is from user
-[u/gdshaffe](https://www.reddit.com/user/gdshaffe){:target="_blank"
+[u/gdshaffe](https://old.reddit.com/user/gdshaffe){:target="_blank"
 rel="noopener"}. The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
 
 The
-[original](https://www.reddit.com/r/politics/comments/x8ybwt/the_gops_dominant_faction_isnt_conservative/inkv4oc/){:target="_blank" rel="noopener"} post.
+[original](https://old.reddit.com/r/politics/comments/x8ybwt/the_gops_dominant_faction_isnt_conservative/inkv4oc/){:target="_blank" rel="noopener"} post.
 
 -------------------------------------------------------------------------------
 
