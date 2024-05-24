@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2024-05-24: [The Real Cancel Culture](2024-05-24-the-real-cancel-culture.html)
 * 2023-05-17: [The Longevity Test](2023-05-17-the-longevity-test.html)
 * 2023-02-18: [Why are so many trains derailing?](2023-02-18-train-safety.html)
 * 2023-02-18: [Conservatives are all about hierarchies and that explains a LOT](2023-02-18-conservative-hierarchies.html)
