@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2024-12-07: [Geopolitical Disorder](2024-12-07-geopolical-disorder.html)
 * 2024-12-07: [America is Cooked](2024-12-07-america-is-cooked.html)
 * 2024-05-24: [The Real Cancel Culture](2024-05-24-the-real-cancel-culture.html)
 * 2023-05-17: [The Longevity Test](2023-05-17-the-longevity-test.html)
