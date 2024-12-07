@@ -5,7 +5,7 @@
 **NOTE: the text was not written by me and is from 2 reddit users
 ([surlyhurly](https://www.reddit.com/user/surlyhurly){:target="_blank" rel="noopener"}
 and
-([Protect-Their-Smiles](https://www.reddit.com/user/Protect-Their-Smiles){:target="_blank" rel="noopener"}).
+[Protect-Their-Smiles](https://www.reddit.com/user/Protect-Their-Smiles){:target="_blank" rel="noopener"}).
 The only changes were minor formatting for
 readability.  I would merely link to reddit if they had a way to
 highlight comments, but they do not.**
