@@ -1,4 +1,4 @@
-# The Kidney Stone Manual
+# The Missing Kidney Stone Manual
 
 I had a kidney stone in January 2025.  I was absolutely shocked how
 little information was out there on what I would go through.
