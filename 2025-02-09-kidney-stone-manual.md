@@ -53,9 +53,9 @@ imagine.  0 being no pain.
 
 ## The Plan
 
-Keep in mind, I'm capturing my urine to capture the stone.  I didn't
-want it to escape down the toilet.  I want it to be analyzed by a lab
-to know what type it is, so I can take preventative actions so I don't
+Keep in mind, I captured my urine to capture the stone.  I did not
+want it escaping down the toilet.  I want it to be analyzed by a lab
+to know what type it is, so I can take preventative actions so I do not
 go through this again.
 
 ### Day 0
@@ -68,10 +68,9 @@ the amount of hydration.  ⚡_foreshadowing detected_⚡
 ### Day 1
 
 At 3am, I woke up and noticed some flank pain, probably a 0.5 for 10
-minutes (0.5p/10m).  I was confused, but after thinking about it a few
-minutes I was like "uh, oh... is this a kidney stone???"
-⚡_foreshadowing detected_⚡ I tried to go back to sleep, but
-couldn't.
+minutes (henceforth 0.5p/10m).  I was confused, but after thinking
+about it a few minutes I was like "uh, oh... is this a kidney
+stone???"  I tried to go back to sleep, but couldn't.
 
 4 hours later it happened again (2p/20m).
 
@@ -95,8 +94,8 @@ had a lot of blood there.  They also did a CAT scan and found the sole
 That evening, I had a spikes of flank pain, probably a 6, that lasted
 for an hour.  This happened a few times through the night.
 
-I hydrated a _lot_ during the day and I feel I didn't really urinate
-as much as I should have. ⚡_foreshadowing detected_⚡
+I had hydrated a _lot_ during the day and I feel I didn't really urinate
+as much as I thought I should have. ⚡_foreshadowing detected_⚡
 
 In the ER, I was given a prescription for Flowmax (aka Tamsulosin), to
 help with getting the spikey bastard out.  Apparently it makes the
