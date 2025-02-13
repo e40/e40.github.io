@@ -11,6 +11,9 @@ I want to state up front:
  * There are explicit descriptions of uncomfortable and/or icky things
    here. Be warned.
 
+**NOTE**: on Feb 13, 2025 I got the news that the kidney stone
+composition was calcium oxalate dihydrate.
+
 ## What it is
 
 Crystals can form in your kidneys, for reasons, and when they get big
