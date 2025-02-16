@@ -1,4 +1,8 @@
 # The Missing Kidney Stone Manual
+{:.no_toc}
+
+* make the toc an unordered list
+{:toc}
 
 I had a kidney stone in January 2025.  I was absolutely shocked how
 little information was out there on what I would go through.
@@ -53,8 +57,6 @@ Below, I will use the 1-10 scale of pain, 10 being the maximum you can
 imagine.  0 being no pain.
 
 ## The Journey
-
-## The Plan
 
 Keep in mind, I captured my urine to capture the stone.  I did not
 want it escaping down the toilet.  I want it to be analyzed by a lab
