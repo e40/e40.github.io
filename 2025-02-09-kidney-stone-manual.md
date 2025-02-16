@@ -239,6 +239,21 @@ This was the entire contents of the last message my urologist sent me
    as spinach, beets, almonds and tofu. Avoid excess vitamin C as
    well. 
 
+## Medication
+
+On pain medication, I was given zofran in the ambulance by EMS.  I was
+given toradol in the ER.  The nurse said it worked better than opiates
+and that opiates didn't work very well for kidney stones.  Speaking of
+which, I was given an oxy prescription during discharge at the ER and
+I filled it, but I didn't take any of it.  I'm extremely wary of oxy,
+for obvious reasons.  I wish I didn't waste the $15 copay.  Now I
+think I'll just take it back to Kaiser for disposal.  I don't want
+that stuff in the house.
+
+While I was still passing the stone into my bladder I did a
+combination of Tylenol and Aleve.  I did the max dose of both,
+staggered, for probably 24 hours.
+
 ## Final thoughts
 
 I know everyone has a different experience with kidney stones, but I
@@ -250,4 +265,4 @@ the internet.  I looked everywhere.  I spend hours searching.
 ChatGPT, et al.  Google.  Medical websites.  Almost none of what I
 wrote above was available.
 
-I wrote this on the chance it helps someone out there.
+I wrote all of this on the off chance it one of my fellow travelers.
