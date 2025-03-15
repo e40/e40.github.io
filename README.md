@@ -16,6 +16,8 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2025-03-15: [Trump's ties to Russia](2025-03-15-trump-russia.md)
+* 2025-03-15: [Why Trump makes so many mistakes](2025-03-15-trump-mistakes.md)
 * 2025-03-07: [Best of HN comments (part 1)](2025-03-07-best-of-HN-part1.md)
 * 2025-02-09: [The Kidney Stone Manual](2025-02-09-kidney-stone-manual.md)
 * 2025-01-25: [Elon is a Nazi](2025-01-25-elon-is-a-nazi.md)
