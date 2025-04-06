@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2025-04-06: [American Power](2025-04-06-american-power.md)
 * 2025-03-15: [Trump's ties to Russia](2025-03-15-trump-russia.md)
 * 2025-03-15: [Why Trump makes so many mistakes](2025-03-15-trump-mistakes.md)
 * 2025-03-07: [Best of HN comments (part 1)](2025-03-07-best-of-HN-part1.md)
