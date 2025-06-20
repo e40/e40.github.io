@@ -16,6 +16,7 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+* 2025-06-20: [Truth and Fascism](2025-06-20-truth-and-fascism.md)
 * 2025-04-12: [Authoritarians](2025-04-12-authoritarians.md)
 * 2025-04-09: [Trump, Tariffs, Mao and more](2025-04-09-trump-tariffs.md)
 * 2025-04-06: [American Power](2025-04-06-american-power.md)
